@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1038746388670",
+    "firebase_url": "https://labtest-ad31a.firebaseio.com",
+    "project_id": "labtest-ad31a",
+    "storage_bucket": "labtest-ad31a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038746388670:android:b4f4785645850249",
+        "android_client_info": {
+          "package_name": "com.example.psyclone.labtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038746388670-qh6c4ksbchcl1vr3v69bh1jrp00kggde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyUVxvd3Ub6tMhutTeksQDRSMhOy72hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
